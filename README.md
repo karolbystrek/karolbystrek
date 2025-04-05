@@ -24,7 +24,7 @@ I'm a motivated **2nd-year Computer Science and Intelligent Systems student** at
 * **Frameworks & Libraries:** Spring Boot, Spring Framework, JDBC, JPA
 * **Databases:** PostgreSQL
 * **Tools:** Git, IntelliJ IDEA, Linux
-* **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms, REST APIs, Database Management, Computer Networks (Basic Cisco Cert.)
+* **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms, REST APIs, Database Management, Computer Networks (Cisco Cert.)
 
 ---
 
