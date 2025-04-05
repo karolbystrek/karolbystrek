@@ -35,10 +35,3 @@ I'm a motivated **2nd-year Computer Science and Intelligent Systems student** at
 * 🚀 Eager to apply my knowledge, learn quickly, and become a valuable team member.
 * 🗣️ Languages: Polish (Native), English (Advanced C1).
 * 💪 Outside of tech: Strength training enthusiast and a fan of good cinema 🎬.
-
----
-
-### 📫 Get In Touch
-
-* **LinkedIn:** [linkedin.com/in/karol-bystrek](https://www.linkedin.com/in/karol-bystrek)
-* **Email:** [karbystrek@gmail.com](mailto:karbystrek@gmail.com)
