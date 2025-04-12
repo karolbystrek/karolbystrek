@@ -32,7 +32,7 @@ I'm a motivated **2nd-year Computer Science and Intelligent Systems student** at
 
 * **Amazon Junior Software Developer Professional Certificate**
     * Issued by: Amazon
-    * *[[Link to Verification](https://www.coursera.org/account/accomplishments/professional-cert/X988U32AJ72X?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof)]*
+    * *[Verification](https://www.coursera.org/account/accomplishments/professional-cert/X988U32AJ72X?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof)*
 
 ---
 
