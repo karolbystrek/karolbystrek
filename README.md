@@ -15,13 +15,11 @@ I'm a motivated **2nd-year Computer Science and Intelligent Systems student** at
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 </p>
 
-* **Languages:** Java, Python, SQL, C (Basic), C++ (Basic), C# (Basic), JavaScript (Basic), HTML/CSS (Basic)
+* **Languages:** Java, Python, SQL, C# (Basic), JavaScript (Basic), HTML/CSS (Basic)
 * **Frameworks & Libraries:** Spring Boot, Spring Framework, JDBC, JPA
 * **Databases:** PostgreSQL
 * **Tools:** Git, IntelliJ IDEA, Linux
