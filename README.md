@@ -1,44 +1,24 @@
-# Hi there, I'm Karol! 👋
+# Hi, I'm Karol
 
-I'm a motivated **2nd-year Computer Science and Intelligent Systems student** at **AGH University of Krakow** 🎓, building upon my foundation as an **IT Technician (Technik Informatyk)**.
+Software Engineering Intern at Ocado Technology Poland. 3rd-year Computer Science & Intelligent Systems student at AGH University of Krakow.
 
-🌱 Currently seeking **Software Engineering internship opportunities** where I can contribute to real-world projects and learn from experienced professionals. My goal is to specialize in creating high-quality, reliable software.
+### Professional Experience
+- Software Engineering Intern — Ocado Technology Poland (Jul–Dec 2025): Full‑stack development with TypeScript, React, Java, Spring Boot, and PostgreSQL; building REST APIs, implementing UI features, writing tests, and contributing to code reviews and agile delivery.
 
----
+### Technical Skills
+- Programming: Java, Python, TypeScript, JavaScript
+- Frameworks & Libraries: Spring Boot, React
+- Databases: PostgreSQL
+- Tools & Platforms: Git, Linux
+- Core Concepts: Object-oriented programming, Data structures and algorithms, REST API design, Database modeling, Computer networks.
 
-### 🔧 Technologies & Tools
+### Languages
+- Polish (native) and English (C1).
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-</p>
+### Education
+- AGH University of Krakow — Computer Science & Intelligent Systems (3rd year, expected graduation ~2027).
+- Technical High School — Zespół Szkół nr 2 w Dębicy — graduated with an IT Technician (Technik Informatyk) diploma.
 
-* **Languages:** Java, Python, SQL, C# (Basic), JavaScript (Basic), HTML/CSS (Basic)
-* **Frameworks & Libraries:** Spring Boot, Spring Framework, JDBC, JPA
-* **Databases:** PostgreSQL
-* **Tools:** Git, IntelliJ IDEA, Linux
-* **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms, REST APIs, Database Management, Computer Networks (Cisco Cert.)
+### Academic Focus
 
----
-
-### 🎓 Certifications
-
-* **Amazon Junior Software Developer Professional Certificate**
-    * Issued by: Amazon
-    * *[Verification](https://www.coursera.org/account/accomplishments/professional-cert/X988U32AJ72X?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof)*
-
----
-
-### ✨ About Me
-
-* 🎓 Studying Computer Science & Intelligent Systems @ AGH University of Krakow (Expected Graduation: ~2027).
-* 🛠️ Qualified IT Technician (Technik Informatyk).
-* 🚀 Eager to apply my knowledge, learn quickly, and become a valuable team member.
-* 🗣️ Languages: Polish (Native), English (Advanced C1).
-* 💪 Outside of tech: Strength training enthusiast and a fan of good cinema 🎬.
+- I use Python for machine learning projects and coursework, including model training, evaluation, and data processing.
