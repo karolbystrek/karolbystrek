@@ -3,6 +3,9 @@
 - Karol Bystrek's professional portfolio as a software engineer.
 - Deployed on Vercel at https://www.karolbystrek.pl.
 - Visual inspiration: https://grugbrain.dev. Keep the design simple and professional.
+- Professional profile: https://www.linkedin.com/in/karol-bystrek/.
+- GitHub: https://github.com/karolbystrek.
+- The page serves as a concise resume for recruiters considering Karol for junior software engineering roles. Keep claims specific and defensible; structure About, Experience, Projects and Achievements, and Skills so their text can be reused in a resume.
 
 ## Design guidelines
 
