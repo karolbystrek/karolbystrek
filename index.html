@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Karol Bystrek</title>
-<style type="text/css">
+<style>
 body {
     margin: 40px auto;
     max-width: 768px;
@@ -15,60 +15,54 @@ body {
     padding: 0 10px;
 }
 
-pre {
-    font-size: 16px;
-}
-
 h1, h2, h3 {
-    line-height: 1.2
+    line-height: 1.2;
 }
 
-a:link {
-  text-decoration: none;
+a:link, a:visited {
+    text-decoration: none;
 }
 
-a:visited {
-  text-decoration: none;
+a:hover, a:active, a:focus-visible {
+    text-decoration: underline;
 }
 
-a:hover {
-  text-decoration: underline;
+.portrait {
+    float: left;
+    height: 120px;
+    width: auto;
+    margin-right: 20px;
 }
 
-a:active {
-  text-decoration: underline;
-}
-h1 a {
-    color: #444;
+header {
+    display: flow-root;
 }
 
-h2 a {
-    color: #444;
-}
-
-#stuff {
-  font-size: 20pt;
-  font-weight: bold;
-  float: right;
+@media (max-width: 480px) {
+    .portrait {
+        float: none;
+        margin-right: 0;
+    }
 }
 </style>
 </head>
 
 <body>
-    <div>
-        <img alt="Karol Bystrek" src="karol-bystrek.jpg" align="left" height="170" hspace="20">
+    <header>
+        <img class="portrait" alt="Karol Bystrek" src="karol-bystrek.jpg" height="120">
         <h1>
             Karol Bystrek<br>
-            <small>Fullstack Software Engineer</small><br>
+            <small>Fullstack Software Engineer</small>
         </h1>
+        <p>
             Kraków, Poland<br>
             <a href="mailto:karbystrek@gmail.com">karbystrek@gmail.com</a> |
             <a href="https://www.linkedin.com/in/karol-bystrek/">LinkedIn</a> |
             <a href="https://github.com/karolbystrek">GitHub</a>
-        </div>
-    </div>
+        </p>
+    </header>
 
-
+    <main>
     <h2>About</h2>
 
     <p>
@@ -150,6 +144,7 @@ h2 a {
         <li>English - C1 Advanced</li>
         <li>Polish - Native</li>
     </ul>
+    </main>
 </body>
 
 </html>
