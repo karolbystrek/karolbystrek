@@ -1,3 +1,3 @@
 # Hi, I'm Karol
 
-[www.karolbystrek.pl](https://www.karolbystrek.pl)
+[karolbystrek.pl](https://karolbystrek.pl)
