@@ -6,10 +6,11 @@ Reviewed `Resume 2026.pdf` against the local portfolio and the linked project re
 
 Use the updated About, Experience, Projects and Achievements, Skills, Education, and Languages text in `index.html` as the shared source. Keep the existing employer names, role titles, employment dates, and contact details.
 
-- Replace the summary: it currently omits IBM and relies on unsupported qualifiers such as “results-oriented,” “proven track record,” and “enterprise-grade.” The new summary names your fourth-year Computer Science and Intelligent Systems studies at AGH, both internships, the main application stack, the award track, and the target role.
-- Use three IBM bullets and four Ocado bullets. The Ocado section separates platform purpose, backend/frontend development, dashboard work, and AWS migrations to give the internship more space. Specific feature and migration examples can strengthen it further once supplied. The separate IBM collaboration bullet is removed; the third IBM bullet captures your additional Next.js work on a resource configuration interface for an IBM Sovereign Core service.
+- Replace the summary: the original PDF omits IBM and relies on unsupported qualifiers such as “results-oriented,” “proven track record,” and “enterprise-grade.” The new summary leads with commercial Java/React experience and IBM automation, names your fourth-year AGH studies, and targets a full-stack role developing reliable systems. Keep the hackathon award in Projects and Achievements.
+- Use three IBM bullets and four Ocado bullets. Ocado now covers the full development lifecycle, dashboard work, cross-team release coordination, and migration of AWS services, alarms, SQS, and SNS into Terraform management with production safeguards. IBM's continuous compliance bullet includes collaboration with CI/CD and architecture teams; the third bullet captures Next.js resource configuration work.
 - Use “Joint First Place, Asseco Track” in the hackathon heading. The award was within that track; avoid implying an overall win across the event. Spell out retrieval-augmented generation (RAG) on first use if space allows.
 - Label Kairos “B.Sc. Project — In Progress.” This context appears on the website but is absent from the PDF. Keep the distinction between tracking without an app installation and the optional customer PWA.
+- Highlight Kairos's Web Push notification system: persisted events, retry backoff, and stale-notification expiry. These mechanisms are supported by the inspected implementation; they do not guarantee receipt on every device or establish measured cost savings. Leave Redis out of Skills as requested.
 - Use the updated Private Cloud Resource Manager description: “Led development of a team university project” describes your contribution without implying a professional job title. Batch job execution, quotas, logs, and artifact storage explain what the platform does. Repository functionality does not establish which individual authored each feature, so the wording does not assign every feature to you.
 - Rename “Expertise” to “Skills.” Include Terraform and Tekton, which your experience supports but the PDF's skills list omits. Ruby is supported by the IBM description. Replace the broad “Agile” entry with concrete tools; the website now includes Git and automated testing.
 - Write “Expected graduation 2027” rather than “Exp. 2027.” Keep “English — C1” and “Polish — Native” consistent across both versions.
@@ -24,7 +25,13 @@ The current document fits, but the sidebar occupies roughly one third of the pag
 4. Retain all three projects initially. If space is tight, remove the secondary-school entry from the resume first, then shorten the summary. The website can keep the full education history. Keep the university, degree, and expected graduation.
 5. Use the same core wording on both surfaces. Tailor project order and the skills order to each vacancy: emphasize Java/Spring Boot and the cloud project for backend roles; React/TypeScript and Kairos for full-stack roles.
 
-The revised core copy is shorter, but its final one-page fit needs checking in your resume editor. No revised PDF was generated or substituted for your original.
+The core copy prioritizes concrete contributions; its final one-page fit needs checking in your resume editor. No revised PDF was generated or substituted for your original.
+
+## AVSystem application
+
+Use `resume-avsystem.md` as copy for a tailored one-page resume. It keeps employment in reverse chronological order and prioritizes lifecycle experience, release coordination, production safeguards, and Java/TypeScript development. The website shares the same factual wording; the resume abbreviates it for space. The specific Ocado feature name is omitted because its disclosure status is uncertain. Confirm availability before adding a full-time availability line.
+
+Kairos notification code inspected through `gh`: `OrderCommandService` records status changes and outbox events in the same transaction; `CustomerPushOutboxFanoutService` persists delivery work and suppresses superseded events; `CustomerPushDeliveryCompletionService` implements bounded retries with backoff, expiry, and invalid-subscription retirement. `CustomerPushDeliveryRepository` supports reclaiming expired worker leases. Customer notification controls provide permission and browser-support guidance. Web Push uses browser push endpoints directly; no measured operational cost or delivery rate was established. This is an in-progress project, not a claim of production adoption.
 
 ## Evidence and remaining limits
 
