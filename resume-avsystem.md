@@ -46,7 +46,7 @@ Designed the workflow and built Python backend and React frontend features for a
 
 ## Skills
 
-Java, TypeScript, SQL, Python, Ruby · Spring Boot, React, Next.js, PostgreSQL · Git, automated testing, Docker, CI/CD, AWS, IBM Cloud, Terraform, Tekton
+Java, TypeScript, SQL, Python · Spring Boot, React, Next.js, PostgreSQL · Git, Spock, Playwright, Docker, CI/CD, AWS, IBM Cloud, Terraform, Tekton
 
 ## Languages
 
