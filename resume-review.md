@@ -29,7 +29,7 @@ The core copy prioritizes concrete contributions; its final one-page fit needs c
 
 ## AVSystem application
 
-Use `resume-avsystem.md` as copy for a tailored one-page resume. It keeps employment in reverse chronological order and prioritizes lifecycle experience, release coordination, production safeguards, and Java/TypeScript development. The website shares the same factual wording; the resume abbreviates it for space. The specific Ocado feature name is omitted because its disclosure status is uncertain. Confirm availability before adding a full-time availability line.
+The tailored AVSystem resume copy is supplied in chat rather than stored in this repository. It keeps employment in reverse chronological order and prioritizes lifecycle experience, release coordination, production safeguards, and Java/TypeScript development. The website shares the same factual wording; the resume abbreviates it for space. The specific Ocado feature name is omitted because its disclosure status is uncertain. Confirm availability before adding a full-time availability line.
 
 Kairos notification code inspected through `gh`: `OrderCommandService` records status changes and outbox events in the same transaction; `CustomerPushOutboxFanoutService` persists delivery work and suppresses superseded events; `CustomerPushDeliveryCompletionService` implements bounded retries with backoff, expiry, and invalid-subscription retirement. `CustomerPushDeliveryRepository` supports reclaiming expired worker leases. Customer notification controls provide permission and browser-support guidance. Web Push uses browser push endpoints directly; no measured operational cost or delivery rate was established. This is an in-progress project, not a claim of production adoption.
 
