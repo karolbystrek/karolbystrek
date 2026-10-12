@@ -1,1 +1,1 @@
-## More about me: [karolbystrek.pl](https://karolbystrek.pl/)
+## More about me at [karolbystrek.pl](https://karolbystrek.pl/)
